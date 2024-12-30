@@ -1,0 +1,11 @@
+../Core/Src/lcd.c:19:13:enable	1
+../Core/Src/lcd.c:34:13:write4Bits	1
+../Core/Src/lcd.c:58:6:sendCommand	1
+../Core/Src/lcd.c:68:6:sendData	1
+../Core/Src/lcd.c:81:14:LCD_init	2
+../Core/Src/lcd.c:130:6:LCD_begin	1
+../Core/Src/lcd.c:159:6:LCD_clearScreen	1
+../Core/Src/lcd.c:166:6:LCD_home	1
+../Core/Src/lcd.c:174:19:LCD_setCursor	2
+../Core/Src/lcd.c:193:6:LCD_putchar	5
+../Core/Src/lcd.c:208:6:LCD_putstr	2

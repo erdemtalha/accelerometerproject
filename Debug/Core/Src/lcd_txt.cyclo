@@ -1,0 +1,4 @@
+../Core/Src/lcd_txt.c:8:6:lcd_init	1
+../Core/Src/lcd_txt.c:29:6:lcd_write	10
+../Core/Src/lcd_txt.c:112:6:lcd_puts	6
+../Core/Src/lcd_txt.c:157:6:lcd_clear	1
